@@ -2422,22 +2422,6 @@ section.lazy-placeholder:after {
     height: calc(100% - 56px);
   }
 }
-.cid-s3vpENJirH .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-s3vpENJirH .media-block {
-    padding-right: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s3vpENJirH .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-bottom: 2rem;
-  }
-}
 .cid-s3vpENJirH .mbr-section-title {
   color: #465052;
 }
